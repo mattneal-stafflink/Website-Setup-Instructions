@@ -7,7 +7,7 @@ These instructions will guide you through how to set up a new website on your lo
 - [Local WP](https://localwp.com/) -- Local WordPress development made simple.
 - [SpinupWP Composer Site](https://github.com/spinupwp/spinupwp-composer-site) -- WordPress site setup using Composer that is primed and ready to be hosted using SpinupWP.
 - [SpinupWP](https://spinupwp.app/) -- Modern Cloud-Based Server Control Panel.
--A theme of some sort. I recommend [Sage 10](https://docs.roots.io/sage/10.x/installation/#installing-sage-with-composer) or [Understrap](https://github.com/understrap/understrap) if you're not ready to dive into Sage 10. [Underscores](https://github.com/Automattic/_s) is another good option if you don't want Bootstrap or Tailwind.
+- A theme of some sort. I recommend [Sage 10](https://docs.roots.io/sage/10.x/installation/#installing-sage-with-composer) or [Understrap](https://github.com/understrap/understrap) if you're not ready to dive into Sage 10. [Underscores](https://github.com/Automattic/_s) is another good option if you don't want Bootstrap or Tailwind.
 -[This .gitignore file](https://gist.github.com/mattneal-stafflink/9e0ad8d4b4ad18b4cf82503d93c6255f) or your own version.
 
 ## Getting Started 
